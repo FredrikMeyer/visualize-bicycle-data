@@ -176,7 +176,7 @@ Update your drawing function:
       (q/stroke dur 100 80 10)
       (q/line x y aa bb)))
   (q/no-loop))
-g```
+```
 
 Notice how now each line has a different stroke depending on the duration. 
 
